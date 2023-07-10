@@ -124,7 +124,7 @@ def preconversor_a_wav(subdividir = True):
 
 # Crear ventana de diálogo para seleccionar archivo de audio
 Tk().withdraw()
-# preconversor_a_wav()
+preconversor_a_wav()
 main(False)
 
 
